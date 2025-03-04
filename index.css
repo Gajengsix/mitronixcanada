@@ -97,6 +97,11 @@ section {
 
     background: -webkit-linear-gradient(rgba(203, 108, 230, 0.4),rgba(6, 6, 68, 0.7));
     -webkit-background-clip: text;
+    background-clip: text;
+    background-clip: text;
+    background-clip: text;
+    background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .video-btn{
