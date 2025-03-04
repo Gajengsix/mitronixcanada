@@ -318,7 +318,7 @@ footer a{
     display: flex;
     align-items: center;
     justify-content:flex-start;
-    background: rgba(6, 6, 68, 1.0);
+    background: #000000;
     overflow: hidden;
     width: 300px;
     border-radius: 10px;
@@ -330,7 +330,7 @@ footer a{
 }
 .contatiner02 .text{
     position: relative;
-    color: #cb6ce6;
+    color: #a9a9b0;
     font-size: 20px;
     font-weight: 600;
 }
@@ -344,7 +344,7 @@ footer a{
     left:0;
     height: 100%;
     width: 100%;
-    background-color: rgba(6, 6, 68, 1.0);
+    background-color: #000000;
     border-left: 2px solid #ffffff;
     animation: animate 4s steps(18) infinite;
 }
